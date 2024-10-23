@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **negreta**, _italic_, or .
+Text can be **negrito sabrosón**
 
 [Link to another page](./another-page.html).
 
