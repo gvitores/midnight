@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **negrito sabrosón**
+Text can be **negrito**
 
 [Link to another page](./another-page.html).
 
